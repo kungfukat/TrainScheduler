@@ -1,0 +1,8 @@
+.jumbotron{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.btn-primary{
+    float: right;
+}
